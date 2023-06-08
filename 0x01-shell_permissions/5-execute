@@ -1,2 +1,2 @@
 #!/bin/bash
-nano hello.sh
+chmod +x hello
